@@ -7,7 +7,7 @@
 @license		GPL-3.0 License
 @preprocessor	default
 @homepageURL	https://github.com/CartoonChess/swift-org-dark
-@updateURL		https://github.com/CartoonChess/swift-org-dark/blob/master/swift-org-dark.user.css
+@updateURL		https://github.com/CartoonChess/swift-org-dark/blob/main/swift-org-dark.user.css
 @advanced dropdown syntax-theme "Syntax Highlight Theme" {
   Swift.org Dark "Swift.org Dark" <<<EOT
   /*! Swift.org Dark *\/:root{--user-highlight-bg:#1e1e1e;--user-highlight-line-num:#929292;--user-highlight-margin:#26718c;--user-highlight-txt:#cccccc;--user-highlight-keyword:#ed55d4;--user-highlight-var:#84c6cf;--user-highlight-type:#b77efc;--user-highlight-comment:#4bab4b;--user-highlight-string:#ff4d85;--user-highlight-num:#a1d3ff;} EOT;
